@@ -4,8 +4,6 @@ Hi! I'm Andy, an iOS developer.
 
 📑 Here's my latest [résumé](https://drive.proton.me/urls/A4Y493VZVC#98dDNvhDHphZ) if you're hiring.
 
-🛠️ You can also check out [this project](https://github.com/qstrnd/wordCards) to evaluate my coding skills.
-
 # 📖 Latest Blog posts
 
 <!-- QSTRND_FEED:START -->
