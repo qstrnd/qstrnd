@@ -15,6 +15,11 @@ Hi! I'm Andy, an iOS developer.
 
 # ⚙️ Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qstrnd&layout=compact&theme=dark)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/qstrnd1)
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qstrnd&layout=compact&theme=dark" 
+       alt="Image 1" 
+       style="max-width: 100%; height: auto; width: 400px;">
+  <img src="https://leetcard.jacoblin.cool/qstrnd1" 
+       alt="Image 2" 
+       style="max-width: 100%; height: auto; width: 400px;">
+</div>
