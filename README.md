@@ -7,6 +7,7 @@ Hi! I'm Andy, an iOS developer.
 # 📖 Latest Blog posts
 
 <!-- QSTRND_FEED:START -->
+- [Effective Learning](https://qstrnd.github.io/posts/effective-learning/)
 - [Geeky macOS Setup for Productivity](https://qstrnd.github.io/posts/geeky-macos-setup-for-productivity/)
 - [A Short Introduction](https://qstrnd.github.io/posts/why-i-write-this-blog/)
 <!-- QSTRND_FEED:END -->
