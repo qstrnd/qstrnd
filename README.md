@@ -7,9 +7,10 @@ Hi! I'm Andy, an iOS developer.
 # 📖 Latest Blog posts
 
 <!-- QSTRND_FEED:START -->
-- [Effective Learning](https://qstrnd.github.io/posts/effective-learning/)
-- [Geeky macOS Setup for Productivity](https://qstrnd.github.io/posts/geeky-macos-setup-for-productivity/)
-- [A Short Introduction](https://qstrnd.github.io/posts/why-i-write-this-blog/)
+- [Fighting Fraud on iOS with Apple DeviceCheck](https://iakovlev.blog/posts/fighting-fraud-on-ios-with-apple-devicecheck/)
+- [Effective Learning](https://iakovlev.blog/posts/effective-learning/)
+- [Geeky macOS Setup for Productivity](https://iakovlev.blog/posts/geeky-macos-setup-for-productivity/)
+- [Short Introduction](https://iakovlev.blog/posts/why-i-write-this-blog/)
 <!-- QSTRND_FEED:END -->
 
 # ⚙️ Stats
