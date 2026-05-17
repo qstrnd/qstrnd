@@ -13,13 +13,10 @@ Hi! I'm Andy, an iOS developer.
 - [Short Introduction](https://iakovlev.blog/posts/why-i-write-this-blog/)
 <!-- QSTRND_FEED:END -->
 
-# ⚙️ Stats
+<!-- # ⚙️ Stats
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qstrnd&layout=compact" 
-       alt="Github stats" 
-       style="max-width: 100%; height: 140px; width: 400px;  object-fit: cover;">
   <img src="https://leetcard.jacoblin.cool/qstrnd1?theme=light" 
        alt="LeetCode stats" 
        style="max-width: 100%; height: 140px; width: 400px; object-fit: cover">
-</div>
+</div> -->
